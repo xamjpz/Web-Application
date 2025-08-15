@@ -41,6 +41,14 @@
 
 # Research and Planning 
 
+## PMI Table
+
+| Plus     | Minus | Implication
+| ----------- | ----------- | ------------|
+| Instagram      | Title       | adsfasdfaf  |
+| Doordash   | Text        | adsfasdf    |
+| Huck Adventures   | Text        | adsfasdf    |
+
 # Producing and Implementing 
 
 # Testing and Evaluating
