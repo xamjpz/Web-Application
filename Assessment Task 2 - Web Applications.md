@@ -30,11 +30,12 @@
     - *Photo Challenge Buttons* - When the user presses on the "photo challenge' button, the web application will reveal a photo challenge that the user can copy with their friends in real life, as well as description of the photo. 
     - *Finish Trail Button* - When the user presses on the "finish trail" button, the web application will take the user to the final "congratulations" page.
 
-
-
 ## Non-Functional Requirements
 
-
+- *Performance* - The website will deliver smooth, seamless transitions between pages, with minimal delay and with the highest quality possible. Furthermore, buttons will work within as little time as possible, to ensure that pages will run without distruptions. 
+- *Usability* - The website will include consistent layout, making it easy for people to learn and navigate the contents within the website. Moreover, The colours, fonts and contrast/scaling of the app will be created to a degree that makes different icons and images easy to see, in order to maximise usability. 
+- *Reliability* - 
+- *Security* - 
 
 
 
