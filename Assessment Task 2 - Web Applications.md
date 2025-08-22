@@ -58,10 +58,39 @@
 
 ## Secondary Research
 
+The purpose of the secondary research is to find the daily average screen time, how much time people spend indoors, the benefits of people going outside in nature
+
+which kinda all proves why going outside with friends is good, and why my app is important 
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC2661046/
+https://aifs.gov.au/resources/short-articles/too-much-time-screens
+
+
 ## Primary Research 
 
+For primary research, I created a google form to collect quantitatve and qualitatve data, specifically regarding screen time, details of hangouts between friends, and the importance and appeal for nature. Collecting this type of data was important because it would give me an overview about the perspective of teenagers regarding their own opinions on nature. Moreover, I am able to gather a general understanding of the problem of at hand, and how effective my app will be against it, helping me to identify features that may specifically target the problem, allowing me to strengthen them. 
+
+The app I aim to create is targetted to teens, so it would make sense for the target market to be teenagers around 14-16 years of age. 
+
+To collect a small survey of the data required, I emailed a form to some of my friends, but also put it in the google classroom to collect data from people other than my friends. By having a wide variety of ages, genders, friend groups and general opinions, it increase the validity and accuracy of the investigation, as well as aiding me to identify any trends and/or outliers in the data. In total, there were 16 responses. 
+
+The google form: https://forms.gle/LDkaKfafZSr8bqSP7
+
+Some of the answers I collected were:
+
+(image 1)
+
+(image 2)
+(image 3)
+
+From this data, I was able to conclude that a more than half of the particpants had a screen time of at least 5 hours. Furthermore, around 60% of participants don't go out with their friends during the school term often, maybe only 1-5 times per term, or sometimes none at all. What makes it all the more worse is the fact that around 70% of these limited hangouts aren't even in nature 
+
+
+
+for the evaluation: i am able to conclude that people dont go out often, and thus this app would help them hangout w their firneds and go outside more which would help thrm a lot 
+
 ## UI and UX Design
-fffff
+
 # Producing and Implementing   
 
 # Testing and Evaluating
