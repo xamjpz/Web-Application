@@ -58,24 +58,19 @@
 
 ## Secondary Research
 
-For my secondary research, I am going to evaluate information from these websites; 
+For my secondary research, I am going to evaluate information from these websites;
 
-
-Accroding to this website, it states that students get more screen time than adults or smt, which is also backed up by this article. 
+Accroding to this website, it states that students get more screen time than adults or smt, which is also backed up by this article.
 
 This is incredibly concerning as according to this website, it shows that studnets actually need this many hours.
 
-Fortunately, this data supports the purpose of my application, ensuring teenagers get adequate time out doors. 
+Fortunately, this data supports the purpose of my application, ensuring teenagers get adequate time out doors.
 
 From these websites, I am able to draw several conclusions regarding the daily average screen time of teenagers, how much time people spend indoors and the benefits of more exposure to nature.
 
-
-
-
 The purpose of the secondary research is to find the daily average screen time, how much time people spend indoors, the benefits of people going outside in nature
 
-which kinda all proves why going outside with friends is good, and why my app is important 
-
+which kinda all proves why going outside with friends is good, and why my app is important
 https://pmc.ncbi.nlm.nih.gov/articles/PMC2661046/
 https://aifs.gov.au/resources/short-articles/too-much-time-screens
 
@@ -97,13 +92,13 @@ Some of the answers I collected were:
 (image 2)
 (image 3)
 
-From this data, I can understand that more than half of the particpants had a screen time of at least 5 hours. Furthermore, around 60% of participants don't go out with their friends during the school term often, maybe only 1-5 times per term, or sometimes none at all. What makes it all the more worse is the fact that around 70% of these limited hangouts aren't even in nature. From this, I am under the impression that teenagers don't go out often, let alone go out with friends to enjoy nature. 
+From this data, I was able to conclude that a more than half of the particpants had a screen time of at least 5 hours. Furthermore, around 60% of participants don't go out with their friends during the school term often, maybe only 1-5 times per term, or sometimes none at all. What makes it  worse is the fact that around 70% of the already limited hangouts aren't even in nature.
 
-From these findings, I am able to conclude that teenagers are in dire need of proper, healthy exposure to nature, as well as more time away from screens. However, with the assistance of my application Roamio, the objective of helping teenagers reconnect with nature is entirely possible. 
+From these findings, I am able to conclude that teenagers are in dire need of proper, healthy exposure to nature, as well as more time away from screens. However, with the assistance of my application Roamio, the objective of helping teenagers reconnect with nature is entirely possible.
 
-I will make sure to emphasise the importance of reconnecting with nature in the first place, as many of the participants noticed that they were not getting that much exposure to nature, despite knowing the benefits. However, by reassuring that nature is in fact worth the time, it will further convince teenagers to get outside away from their screens. 
+I will make sure to emphasise the importance of reconnecting with nature in the first place, as many of the participants noticed that they were not getting that much exposure to nature, despite knowing the benefits. However, by reassuring that nature is in fact worth the time, it will further convince teenagers to get outside away from their screens.
 
-Moreover, this data also helped me to realise that my application would benefit on the emphasis of the benefit of getting off screens, because it looks like teenagers understand the benefits of going outside, but are oblivious to the detrimental impact that high amounts of screen time have. 
+Moreover, this data also helped me to realise that my application would benefit on the emphasis of the benefit of getting off screens, because it looks like teenagers understand the benefits of going outside, but are oblivious to the detrimental impact that high amounts of screen time have.
 
 ## UI and UX Design
 
