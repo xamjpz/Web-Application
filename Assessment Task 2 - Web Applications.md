@@ -58,21 +58,26 @@
 
 ## Secondary Research
 
-For my secondary research, I am going to evaluate information from these websites;
+For my secondary research, I am going to evaluate information from these websites; 
 
-Accroding to this website, it states that students get more screen time than adults or smt, which is also backed up by this article.
+- https://www.redsearch.com.au/resources/phone-screen-time-statistics-australia-global/#:~:text=Screen%20Time%20by%20Age%20Group%20and%20Gender&text=Children%20(3%20to%2012%20years,)%3A%204.6%20hours%20a%20day. - Redsearch article, written by Daniel Law.
+- https://www.sydney.edu.au/news-opinion/news/2025/08/04/more-than-40-percent-of-young-aussies-are-lonely-as-experts-call-for-national-loneliness-strategy.html#:~:text=more%20than%20two%20in%20five%20young%20Australians%20feel%20lonely,to%2017%2Dyear%2Dolds. - University of Sydney.
+- https://health.ucdavis.edu/blog/cultivating-health/3-ways-getting-outside-into-nature-helps-improve-your-health/2023/05#:~:text=So%2C%20stepping%20outside%20can%20help,heart%20rate%20and%20blood%20pressure. - University of California. 
 
-This is incredibly concerning as according to this website, it shows that studnets actually need this many hours.
+From these websites, I am able to draw several conclusions regarding the daily average screen time of teenagers, how much time people spend alone and the benefits of more exposure to nature.
 
-Fortunately, this data supports the purpose of my application, ensuring teenagers get adequate time out doors.
+According to the first article, written by Daniel Law, Australians spend more than six hours a day, on mobile phones alone, with teenagers (13-19 years) spend 7.5 hours on screens all together. This is almost half the amount of time most teenagers are awake, which is obviously a concern. High amounts of screen time also may lead to depression and anxiety among young people. 
 
-From these websites, I am able to draw several conclusions regarding the daily average screen time of teenagers, how much time people spend indoors and the benefits of more exposure to nature.
+Moreover, the dangers of high amounts of screentime also contribute to the recent increase in loneliness amongst young people. In a study done by the University of Sydney, 43% of people aged 15-25 feel lonely, in which lifestyle factors and relationships played a signficant role. Additionally, according to the anecdotal evidence presented in the study, its critical for young people to connect with communities and friends, as it just boosts morale in almost everything. 
 
-The purpose of the secondary research is to find the daily average screen time, how much time people spend indoors, the benefits of people going outside in nature
+Furthermore, according to the University of California, it provides good points on why nature is a good thing, and how it can solve both issues of high screen time, reducing depression and anxiety, but also can help people feel more connected and less lonely?? or at the very least help lessen the impacts of lonliness??
 
-which kinda all proves why going outside with friends is good, and why my app is important
-https://pmc.ncbi.nlm.nih.gov/articles/PMC2661046/
-https://aifs.gov.au/resources/short-articles/too-much-time-screens
+According to the first website, it says that students get a lot of screen time. More over, according to this website, it shows why it is a bad thing to get so much screen time. then finally, on this website, it shows why going outside in nature is a good thing and more people should be doing it. 
+
+
+
+Furthermore, this data supports the purpose of my application, urging teenagers to spend more time out doors, with their friends, .
+
 
 
 ## Primary Research 
