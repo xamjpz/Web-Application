@@ -11,6 +11,8 @@
 
 ![image]()
 
+## Convergent Thinking 
+
 ## Functional Requirements
 
 - **Purpose of the Application** - The purpose of the application is to enhance the experience of a hangout with friends, whilst bringing them outdoors to reconnect with nature. This application will have a positive social impact on friend groups through an interactive "choose your own adventure" game, but with real life goals, thus bringing people together outside, allowing them to enjoy each others company in nature. 
@@ -66,19 +68,15 @@ For my secondary research, I am going to evaluate information from these website
 
 From these websites, I am able to draw several conclusions regarding the daily average screen time of teenagers, how much time people spend alone and the benefits of more exposure to nature.
 
-According to the first article, written by Daniel Law, Australians spend more than six hours a day, on mobile phones alone, with teenagers (13-19 years) spend 7.5 hours on screens all together. This is almost half the amount of time most teenagers are awake, which is obviously a concern. High amounts of screen time also may lead to depression and anxiety among young people. 
+According to the first article, written by Daniel Law, Australians spend more than six hours a day, on mobile phones alone, with teenagers (13-19 years) spending 7.5 hours on screens all together. This is almost half the amount of time most teenagers are awake, which is obviously a concern. High amounts of screen time may also lead to depression and anxiety among young people. 
 
-Moreover, the dangers of high amounts of screentime also contribute to the recent increase in loneliness amongst young people. In a study done by the University of Sydney, 43% of people aged 15-25 feel lonely, in which lifestyle factors and relationships played a signficant role. Additionally, according to the anecdotal evidence presented in the study, its critical for young people to connect with communities and friends, as it just boosts morale in almost everything. 
+Moreover, the dangers of high amounts of screentime also contribute to the recent increase in loneliness amongst young people. In a study done by the University of Sydney, 43% of people aged 15-25 feel lonely, in which lifestyle factors and relationships played a signficant role. To support this,  anecdotal evidence presented in the study, states that its critical for young people to connect with communities and friends, as it boosts morale in almost everything. 
 
-Furthermore, according to the University of California, it provides good points on why nature is a good thing, and how it can solve both issues of high screen time, reducing depression and anxiety, but also can help people feel more connected and less lonely?? or at the very least help lessen the impacts of lonliness??
+Additionally, according to the University of California, there are actually several benefits of going outdoors in nature, with potential to combat the effects of high screen time and loneliness. Such benefits include relaxing your mind and reducing cortisol levels, relieving you of stress. Being in nature also reduces anxiety, which can be caused by excessive loneliness, and also helps you sleep at night, which is another consequence of high screen time. 
 
-According to the first website, it says that students get a lot of screen time. More over, according to this website, it shows why it is a bad thing to get so much screen time. then finally, on this website, it shows why going outside in nature is a good thing and more people should be doing it. 
+However, spending time in nature may help individuals cope with the effects of high screen time and loneliness, but it might not be the solution.
 
-
-
-Furthermore, this data supports the purpose of my application, urging teenagers to spend more time out doors, with their friends, .
-
-
+From the data I gathered from these websites, it supports the need for my application, the purpose of which is to get teenagers away from their screens and reconnect with each other and with nature. As proven by these websites, high screen time and lonliness are problems that are present all over the world, and plague individuals in ways that might be hard to cope with. However, through the assistance of my application, individuals can be encouraged to enjoy time with their friends in nature away from screens.
 
 ## Primary Research 
 
