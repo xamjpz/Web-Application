@@ -7,9 +7,10 @@
 
 **Mind Map:**
 
-(add mindmap here)
+![alt text](image-2.png)
+![alt text](image-1.png)
 
-![image]()
+If the images are too hard to see, you can look at the mindmap by clicking on this link: https://lucid.app/lucidchart/52b460d4-df14-43b8-9caa-d62634917599/edit?viewport_loc=-3581%2C-4450%2C10394%2C4994%2C0_0&invitationId=inv_d8b16e64-5beb-4541-aa58-86088eaafa69
 
 ## Convergent Thinking 
 
