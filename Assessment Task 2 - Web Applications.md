@@ -91,10 +91,10 @@ The google form: https://forms.gle/LDkaKfafZSr8bqSP7
 
 Some of the answers I collected were:
 
-(image 1)
-
-(image 2)
-(image 3)
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
 
 From this data, I was able to conclude that a more than half of the particpants had a screen time of at least 5 hours. Furthermore, around 60% of participants don't go out with their friends during the school term often, maybe only 1-5 times per term, or sometimes none at all. What makes it  worse is the fact that around 70% of the already limited hangouts aren't even in nature.
 
@@ -106,14 +106,40 @@ Moreover, this data also helped me to realise that my application would benefit 
 
 ## UI and UX Design
 
-### Wireframe 1:
+### Here are my wireframes:
 
-### Wireframe 2:
+![alt text](image-3.png)
 
-### Wireframe 3:
+### Here is my webpage story board:
 
+![alt text](<WhatsApp Image 2025-09-22 at 08.45.29_95f50d65.jpg>)
 
+### Follow this link to access my prototype:
 
+https://sites.google.com/d/1AGKwtHMgwLMXM9vnXRhTsP1v8LmttNAa/p/1Vo7rizV2LG26rF4TdUmGgBPplFcEcihN/edit
+ 
 # Producing and Implementing   
 
+Throughout the creation of my web application, I made many different changes. With these changes, I documented them by committing to GitHub, which can be accessed in my repositry.
+
+But to simplify, the first week of September, I did most of my theory, such as functional and non functional requirements. In the second week of September, I started making my prototypes and web application. In my third week I finished my web application. 
+
 # Testing and Evaluating
+
+## Evaluation of Issues:
+
+- Social: I wouldn't consider my application of have any social issues, in fact, it is an application to aid people to socialise more. Since my websites purpose is bringing people together, then my website has a relatively positive impact on society.
+- Ethical: My application is very ethical, as the purpose of it is to bring people together, and reconnect with nature at the same time. There is nothing inherntly bad about any of these goals, and with that being said, my application is ethically responsible. 
+- Legal Responsibilities: My application does not require data from the user, however, there is a very limited amount of information about the actual trails in the website, so if users were to soley rely on the application, some complications, such as getting lost, my arise. 
+
+## Project Evaluation:
+
+Roamio, my web application, has met the standard of which I hoped for. With saying this, there is room for improvement, even though it met all the requirements.
+
+The application was able to meet most of the functional requirements, with all the functions such as buttons working perfectly. However, many of the features that I originally wanted, such as the drop down menus, were too difficult for me to understand. To compensate for this, I just added images into the website without having the drop down menu, but still having the same "find this object" goal in mind. 
+
+Moreover, the application was able to meet all of the nonfunctional requirements, including being secure, because it didn't collect any data, having a consistent and aesthetically pleasing UI, and the transition between pages was also very seamless. 
+
+In terms of my time management, it could've defintely improved. I over estimated my abilities in several aspects, and I didn't realise the severity of my situation. Next time I will ensure to make a schedule, instead of a to-do list for an assessment, because although it did help me a lot for priotitisng, it did not help with my time management. 
+
+On the target market, I do believe it will have an overall positive impact on individuals and friendgroups, bringing people closer to each other whilst reconnecting with nature at the same time. 
