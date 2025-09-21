@@ -126,6 +126,13 @@ But to simplify, the first week of September, I did most of my theory, such as f
 
 # Testing and Evaluating
 
+## Peer Evaluation:
+
+- Chris: UI is too basic and all of the code is too simple as well, next time make it more complex.
+- Luca: Colours are nice and its very minimalistic and simplistic, but next time it should have more features like those drop down menus you planned.
+
+In the future, I will work on my time management to help make my application have as many good functional features as it can. 
+
 ## Evaluation of Issues:
 
 - Social: I wouldn't consider my application of have any social issues, in fact, it is an application to aid people to socialise more. Since my websites purpose is bringing people together, then my website has a relatively positive impact on society.
